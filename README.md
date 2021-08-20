@@ -139,10 +139,10 @@ access_token:ユーザの PAT<br>
 
 ### レスポンス
 
-id:エントリーID
-github_id:エントリーした人のgithub id
+id:エントリー ID
+github_id:エントリーした人の github id
 address:エントリーした人のアドレス
-sign:エントリーした人のsign情報
+sign:エントリーした人の sign 情報
 reward:報酬額
 contribution_count:貢献数
 create_at:作成日
