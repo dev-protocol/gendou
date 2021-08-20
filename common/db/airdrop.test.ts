@@ -8,7 +8,7 @@ test.before(() => {
 	setEnv()
 })
 
-test.serial('getAirdrop: address is exist.', async (t) => {
+test.skip('getAirdrop: address is exist.', async (t) => {
 	const client = getDbClient()
 	await createAirdropTestData(client)
 	const result = await getAirdrop(
@@ -19,7 +19,7 @@ test.serial('getAirdrop: address is exist.', async (t) => {
 	t.is(result?.reward, '100')
 })
 
-test.serial('getAirdrop: address is not exist.', async (t) => {
+test.skip('getAirdrop: address is not exist.', async (t) => {
 	const client = getDbClient()
 	await createAirdropTestData(client)
 	const result = await getAirdrop(
