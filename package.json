@@ -33,7 +33,7 @@
 		"@types/bent": "7.3.2",
 		"@types/deep-equal": "1.0.1",
 		"@types/dotenv": "8.2.0",
-		"@types/node": "16.11.33",
+		"@types/node": "16.11.35",
 		"@types/ramda": "0.28.12",
 		"@types/sinon": "10.0.11",
 		"@typescript-eslint/eslint-plugin": "5.22.0",
