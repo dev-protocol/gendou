@@ -16,7 +16,7 @@
 		"prepare": "husky install"
 	},
 	"dependencies": {
-		"@azure/functions": "3.5.0",
+		"@azure/functions": "3.5.1",
 		"@devprotocol/util-ts": "2.2.1",
 		"@octokit/graphql": "4.8.0",
 		"@prisma/client": "3.15.2",
