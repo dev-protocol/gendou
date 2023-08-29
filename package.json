@@ -22,7 +22,7 @@
 		"@prisma/client": "3.15.2",
 		"@types/bignumber.js": "5.0.0",
 		"@types/mathjs": "9.4.1",
-		"bignumber.js": "9.1.1",
+		"bignumber.js": "9.1.2",
 		"ethereum-waffle": "3.4.4",
 		"mathjs": "10.5.1",
 		"prisma": "3.15.2",
