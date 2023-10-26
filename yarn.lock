@@ -1216,10 +1216,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/deep-equal@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/deep-equal/-/deep-equal-1.0.1.tgz#71cfabb247c22bcc16d536111f50c0ed12476b03"
-  integrity sha512-mMUu4nWHLBlHtxXY17Fg6+ucS/MnndyOWyOe7MmwkoMYxvfQU2ajtRaEvqSUv+aVkMqH/C0NCI8UoVfRNQ10yg==
+"@types/deep-equal@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/deep-equal/-/deep-equal-1.0.3.tgz#f8315c99a85cc7a286b15cd9cac5e4a52e98d59d"
+  integrity sha512-xP1pB67eLrRdMLKpXUXhYN/3uiJN1gNalcVOSY5kdJbxhGuZTTE8awSWOD9LCJDzQZVsuZZcnMMLRrbf+nOUSQ==
 
 "@types/dotenv@8.2.0":
   version "8.2.0"
