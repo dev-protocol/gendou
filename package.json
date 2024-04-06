@@ -29,7 +29,7 @@
 		"ramda": "0.29.1"
 	},
 	"devDependencies": {
-		"@ava/typescript": "1.1.1",
+		"@ava/typescript": "4.1.0",
 		"@types/bent": "7.3.8",
 		"@types/deep-equal": "1.0.4",
 		"@types/dotenv": "8.2.0",
