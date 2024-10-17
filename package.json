@@ -19,13 +19,13 @@
 		"@azure/functions": "3.5.1",
 		"@devprotocol/util-ts": "2.2.1",
 		"@octokit/graphql": "4.8.0",
-		"@prisma/client": "3.15.2",
+		"@prisma/client": "5.21.1",
 		"@types/bignumber.js": "5.0.0",
 		"@types/mathjs": "9.4.2",
 		"bignumber.js": "9.1.2",
 		"ethereum-waffle": "3.4.4",
 		"mathjs": "10.5.1",
-		"prisma": "3.15.2",
+		"prisma": "5.21.1",
 		"ramda": "0.30.0"
 	},
 	"devDependencies": {
